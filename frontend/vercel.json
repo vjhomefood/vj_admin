@@ -1,0 +1,13 @@
+{
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ],
+  "env": {
+    "VITE_API_URL": "https://vj-order-bills.onrender.com/api"
+  },
+  "build": {
+    "env": {
+      "VITE_API_URL": "https://vj-order-bills.onrender.com/api"
+    }
+  }
+}
