@@ -1,13 +1,8 @@
 {
   "rewrites": [
-    { "source": "/(.*)", "destination": "/index.html" }
-  ],
-  "env": {
-    "VITE_API_URL": "https://vj-admin.onrender.com/api"
-  },
-  "build": {
-    "env": {
-      "VITE_API_URL": "https://vj-admin.onrender.com/api"
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
     }
-  }
+  ]
 }
