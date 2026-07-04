@@ -63,11 +63,12 @@ npm run dev
 
 # 🚀 Deployment
 
-| Service   | Platform       |
-| Frontend  | Vercel         |
-| Backend   | Render         |
-| Database  | MongoDB Atlas  |
 
+| Service | Platform |
+|---------|----------|
+| Frontend | Vercel |
+| Backend | Render |
+| Database | MongoDB Atlas |
 ---
 
 # 🔒 Security
